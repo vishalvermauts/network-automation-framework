@@ -18,5 +18,3 @@ A scalable, multi-threaded network discovery and auditing engine designed for he
 ### Installation
 ```bash
 pip install netmiko pyyaml
-## Project Output
-![Network Audit Results](1.jpg)
