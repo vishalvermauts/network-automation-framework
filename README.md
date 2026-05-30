@@ -1,5 +1,7 @@
 # Network Automation Framework
 
+![Network Automation Framework Architecture](1.jpg)
+
 ## Overview
 A scalable, multi-threaded network discovery and auditing engine designed for heterogeneous network environments (IOS-XE, NX-OS, IOS-XR). This project automates operational state retrieval, reducing manual audit time by approximately 80%.
 
