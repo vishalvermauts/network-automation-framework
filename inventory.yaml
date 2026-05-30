@@ -3,14 +3,14 @@ devices:
     device_type: cisco_xe
     host: 10.10.20.48
     username: developer
-    password: C1sco12345
+    password: CHANGE_ME_LATER
   - name: Nexus9K
     device_type: cisco_nxos
     host: 10.10.20.40
     username: admin
-    password: RG!_Yw200
+    password: CHANGE_ME_LATER
   - name: IOS_XRv
     device_type: cisco_xr
     host: 10.10.20.35
     username: developer
-    password: C1sco12345
+    password: CHANGE_ME_LATER
